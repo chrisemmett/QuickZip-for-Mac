@@ -1,0 +1,18 @@
+// Shared build settings for every target in QuickZip.xcodeproj.
+//
+// The values here are placeholders, so a fresh clone builds and runs
+// locally ("Sign to Run Locally") with no setup. To sign with your own
+// Apple Developer account, or before distributing a build, copy
+// Local.xcconfig.example to Local.xcconfig (ignored by git) and set your
+// own values there. Do not put them in this file.
+
+// Reverse-DNS prefix you control. The app's bundle identifier is
+// $(BUNDLE_ID_PREFIX).QuickZip and the Quick Look extension's is
+// $(BUNDLE_ID_PREFIX).QuickZip.QuickLook.
+BUNDLE_ID_PREFIX = com.example
+
+// Your Apple Developer team ID. Empty means Xcode asks for a team, or signs
+// to run locally.
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

@@ -1,0 +1,5 @@
+// Copy this file to Config/Local.xcconfig (ignored by git) and fill in your
+// own values. They override the placeholders in Base.xcconfig.
+
+BUNDLE_ID_PREFIX = com.yourname
+DEVELOPMENT_TEAM = ABCDE12345

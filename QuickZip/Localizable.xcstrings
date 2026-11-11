@@ -1,0 +1,1312 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "…and %lld more." : {
+
+    },
+    "“%@” already exists in “%@”." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "“%1$@” already exists in “%2$@”."
+          }
+        }
+      }
+    },
+    "“%@” can run code when opened." : {
+
+    },
+    "“%@” can’t be changed" : {
+
+    },
+    "“%@” can’t be opened" : {
+
+    },
+    "“%@” can’t be previewed" : {
+
+    },
+    "“%@” compared with “%@”" : {
+
+    },
+    "“%@” could not be updated and may be damaged: %@" : {
+
+    },
+    "“%@” couldn’t be changed" : {
+
+    },
+    "“%@” couldn’t be checked" : {
+
+    },
+    "“%@” couldn’t be moved to the Trash" : {
+
+    },
+    "“%@” couldn’t be opened" : {
+
+    },
+    "“%@” couldn’t be reopened" : {
+
+    },
+    "“%@” couldn’t be uncompressed" : {
+
+    },
+    "“%@” is already in this folder." : {
+
+    },
+    "“%@” is damaged" : {
+
+    },
+    "“%@” is intact" : {
+
+    },
+    "“%@” needs a password" : {
+
+    },
+    "“%@” was changed by another application." : {
+
+    },
+    "“%@” was moved to the Trash or deleted. Its contents can still be extracted until you close this window." : {
+
+    },
+    "“%@” will open as a read-only copy" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ bytes" : {
+
+    },
+    "%@ compressed" : {
+
+    },
+    "%@ is too large to preview automatically." : {
+
+    },
+    "%@ of %@ items checked" : {
+
+    },
+    "%@ original" : {
+
+    },
+    "%@ smaller" : {
+
+    },
+    "%@ uncompressed" : {
+
+    },
+    "%@, %@" : {
+
+    },
+    "%@, %@, %@ smaller" : {
+
+    },
+    "%@, folder, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, folder, %2$@"
+          }
+        }
+      }
+    },
+    "%lld files" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld file"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld files"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld files decompressed with the expected size and checksum." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld file decompressed with the expected size and checksum."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld files decompressed with the expected size and checksum."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld have the same size but no checksum to confirm it." : {
+
+    },
+    "%lld items" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items already exist in “%@”." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld items already exist in “%2$@”."
+          }
+        }
+      }
+    },
+    "%lld items are already in this folder." : {
+
+    },
+    "%lld items are damaged." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item is damaged."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items are damaged."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items are not in the list" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item is not in the list"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items are not in the list"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items are password-protected." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item is password-protected."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items are password-protected."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items are programs or have misleading names." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item is a program or has a misleading name."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items are programs or have misleading names."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items are the same." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item is the same."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items are the same."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items couldn’t be checked." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item couldn’t be checked."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items couldn’t be checked."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items in “%@” couldn’t be extracted" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld items in “%2$@” couldn’t be extracted"
+          }
+        }
+      }
+    },
+    "%lld Items Selected" : {
+
+    },
+    "%lld items will open as read-only copies" : {
+
+    },
+    "%lld items won’t be extracted because they’re unsafe." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld item won’t be extracted because it’s unsafe."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld items won’t be extracted because they’re unsafe."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld links in the folder were not compared." : {
+
+    },
+    "%lld matches" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld match"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld matches"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld matches, first %lld shown" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld matches, first %2$lld shown"
+          }
+        }
+      }
+    },
+    "%lld of %lld items" : {
+
+    },
+    "%lld of %lld items couldn’t be extracted" : {
+
+    },
+    "%lld of %lld selected" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld selected"
+          }
+        }
+      }
+    },
+    "A complete copy of the updated archive was saved to “%@”." : {
+
+    },
+    "A file named “%@” is already in that folder, and it is not a link made by QuickZip." : {
+
+    },
+    "Add" : {
+
+    },
+    "Add files to the folder being shown" : {
+
+    },
+    "Add Files…" : {
+
+    },
+    "Adding “%@”…" : {
+
+    },
+    "Adding %lld items…" : {
+
+    },
+    "After extracting:" : {
+
+    },
+    "Alias" : {
+
+    },
+    "All %lld" : {
+
+    },
+    "An archive can’t be added to itself" : {
+
+    },
+    "Another application opens ZIP archives from Finder." : {
+
+    },
+    "Application" : {
+
+    },
+    "Archive" : {
+
+    },
+    "Archive contents" : {
+
+    },
+    "Archives" : {
+
+    },
+    "Archives are only changed when they can be read completely, but %@. You can still extract its contents." : {
+
+    },
+    "as List" : {
+
+    },
+    "as Size Map" : {
+
+    },
+    "Automatic" : {
+
+    },
+    "Automatic (%@)" : {
+
+    },
+    "Barely compressed" : {
+
+    },
+    "Be careful" : {
+
+    },
+    "Be careful with" : {
+
+    },
+    "Be careful with this item: see the safety report" : {
+
+    },
+    "Calculate" : {
+
+    },
+    "Calculating checksums: %lld of %lld…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Calculating checksums: %1$lld of %2$lld…"
+          }
+        }
+      }
+    },
+    "Calculating SHA-256" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Central European (Windows Latin 2)" : {
+
+    },
+    "Changes made in other applications aren’t saved back into “%@”. To keep changes, save the file somewhere else." : {
+
+    },
+    "Changes made in other applications aren’t saved back into the archive. To keep changes, save the file somewhere else." : {
+
+    },
+    "Characters that change how a name reads can make a program look like a document." : {
+
+    },
+    "Checks every item in an archive against its stored size and checksum without writing anything. Returns true if nothing is damaged." : {
+
+    },
+    "Checksum progress" : {
+
+    },
+    "Chinese Simplified (GBK)" : {
+
+    },
+    "Chinese Traditional (Big 5)" : {
+
+    },
+    "Choose a folder on your PATH, such as /usr/local/bin, to put the quickzip command in." : {
+
+    },
+    "Choose a ZIP archive to browse." : {
+
+    },
+    "Choose a ZIP archive to uncompress." : {
+
+    },
+    "Choose an archive or a folder to compare with “%@”." : {
+
+    },
+    "Choose items to add to “%@”." : {
+
+    },
+    "Choose other items to add." : {
+
+    },
+    "Choose where to extract the item." : {
+
+    },
+    "Choose where to extract the items." : {
+
+    },
+    "Choose where to save the checksum list." : {
+
+    },
+    "QuickZip opens ZIP archives from Finder." : {
+
+    },
+    "Clear Menu" : {
+
+    },
+    "Command line:" : {
+
+    },
+    "Compare" : {
+
+    },
+    "Compare With…" : {
+
+    },
+    "Compared without the top-level folder “%@”." : {
+
+    },
+    "Comparing with “%@”…" : {
+
+    },
+    "Compressed" : {
+
+    },
+    "Compressed well" : {
+
+    },
+    "Compressed with %@, which is not supported" : {
+
+    },
+    "Compression" : {
+
+    },
+    "Contains" : {
+
+    },
+    "Contents" : {
+
+    },
+    "Copied. Paste it into Terminal; it asks for your password because /usr/local/bin needs an administrator." : {
+
+    },
+    "Copy" : {
+
+    },
+    "Copy %@" : {
+
+    },
+    "Copy Install Command for Terminal" : {
+
+    },
+    "Copy List" : {
+
+    },
+    "Couldn’t Open Archive" : {
+
+    },
+    "CRC-32" : {
+
+    },
+    "Cyrillic (DOS)" : {
+
+    },
+    "Cyrillic (Windows)" : {
+
+    },
+    "Damaged" : {
+
+    },
+    "Date Modified" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Delete “%@” from “%@”?" : {
+
+    },
+    "Delete %lld items from “%@”?" : {
+
+    },
+    "Delete…" : {
+
+    },
+    "Deleting “%@”…" : {
+
+    },
+    "Deleting %lld items…" : {
+
+    },
+    "Different" : {
+
+    },
+    "Different %lld" : {
+
+    },
+    "Dismiss" : {
+
+    },
+    "Document" : {
+
+    },
+    "Done" : {
+
+    },
+    "Drop an archive here to browse it" : {
+
+    },
+    "Enclosing Folder" : {
+
+    },
+    "Encrypted" : {
+
+    },
+    "Encrypted, unsupported or damaged items have no checksum:" : {
+
+    },
+    "Enter Password…" : {
+
+    },
+    "Enter the password for “%@”" : {
+
+    },
+    "Every item matches." : {
+
+    },
+    "Export Checksums…" : {
+
+    },
+    "Extract" : {
+
+    },
+    "Extract ${archive}" : {
+
+    },
+    "Extract All…" : {
+
+    },
+    "Extract Archive" : {
+
+    },
+    "Extract the selected items" : {
+
+    },
+    "Extract…" : {
+
+    },
+    "Extracted %lld items" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Extracted %lld item"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Extracted %lld items"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Extracted %lld items; %lld could not be extracted." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extracted %1$lld items; %2$lld could not be extracted."
+          }
+        }
+      }
+    },
+    "Extracted %lld items." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Extracted %lld item."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Extracted %lld items."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Extracting %lld of %lld items…" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extracting %1$lld of %2$lld items…"
+          }
+        }
+      }
+    },
+    "Extraction progress" : {
+
+    },
+    "Extracts all of an archive, or only the items matching a search, and returns what was extracted. Items that would be written outside the destination are refused." : {
+
+    },
+    "Files ending in .%@ can run code when opened." : {
+
+    },
+    "Folder" : {
+
+    },
+    "Folders" : {
+
+    },
+    "Forget Saved Password" : {
+
+    },
+    "Found %lld items." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Found %lld item."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Found %lld items."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Go" : {
+
+    },
+    "Greek (Windows)" : {
+
+    },
+    "Hide Inspector" : {
+
+    },
+    "Inspector" : {
+
+    },
+    "Install" : {
+
+    },
+    "Install Command…" : {
+
+    },
+    "Installed in %@. Open a new Terminal window to use it." : {
+
+    },
+    "It cannot be opened." : {
+
+    },
+    "it is a document, which has to keep its items in a particular order" : {
+
+    },
+    "It is a symbolic link." : {
+
+    },
+    "it is a temporary copy opened from another archive, so changes would not be kept" : {
+
+    },
+    "It is compressed with %@, which is not supported." : {
+
+    },
+    "It looks like a .%@ file but is a program." : {
+
+    },
+    "It points to “%@” and will be skipped when extracting." : {
+
+    },
+    "It uses an encryption method that is not supported." : {
+
+    },
+    "It was refused because %@." : {
+
+    },
+    "It will be skipped when extracting." : {
+
+    },
+    "Items in this archive are encrypted with %@." : {
+
+    },
+    "Items that share data are typical of a ZIP bomb. They cannot be opened." : {
+
+    },
+    "Its target is too long to be genuine. It will be skipped." : {
+
+    },
+    "Japanese (Shift JIS)" : {
+
+    },
+    "Keep Both" : {
+
+    },
+    "Keep Both adds the new items with new names. Replace deletes the existing items from the archive, including everything in folders." : {
+
+    },
+    "Keep Both gives extracted files new names. Replace overwrites existing files. Folders are merged either way." : {
+
+    },
+    "Kind" : {
+
+    },
+    "Korean (Windows)" : {
+
+    },
+    "Link points outside the destination" : {
+
+    },
+    "List" : {
+
+    },
+    "List Archive Items" : {
+
+    },
+    "List items in ${archive}" : {
+
+    },
+    "Lists the items in a ZIP, tar or Apple Archive without extracting anything." : {
+
+    },
+    "Look inside, preview files and pull out only what you need. Nothing is unpacked until you extract it." : {
+
+    },
+    "Looks like a ZIP bomb" : {
+
+    },
+    "Make QuickZip the Default" : {
+
+    },
+    "Modified" : {
+
+    },
+    "Move the archive to the Trash after extracting all of it" : {
+
+    },
+    "Name" : {
+
+    },
+    "Name has hidden or direction-changing characters" : {
+
+    },
+    "Name hides what it is" : {
+
+    },
+    "Needs a password" : {
+
+    },
+    "New Tab" : {
+
+    },
+    "No items could be extracted" : {
+
+    },
+    "No items in “%@” could be extracted" : {
+
+    },
+    "No preview available. %@" : {
+
+    },
+    "No Selection" : {
+
+    },
+    "Not Checked" : {
+
+    },
+    "Nothing is damaged: %lld items checked." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Nothing is damaged: %lld item checked."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Nothing is damaged: %lld items checked."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Nothing Suspicious Found" : {
+
+    },
+    "Nothing to Show" : {
+
+    },
+    "OK" : {
+
+    },
+    "Only for password-protected archives. It is stored in the shortcut as plain text; an archive whose password was saved in the Keychain with “Remember in Keychain” needs none." : {
+
+    },
+    "Only here %lld" : {
+
+    },
+    "Only in “%@” %lld" : {
+
+    },
+    "Only in the other" : {
+
+    },
+    "Only in this archive" : {
+
+    },
+    "Only Items Matching" : {
+
+    },
+    "Only when every item was extracted. Nothing is moved after extracting a selection, or if any item was skipped or failed." : {
+
+    },
+    "Open" : {
+
+    },
+    "Open an archive" : {
+
+    },
+    "Open Another…" : {
+
+    },
+    "Open Archive in New Tab" : {
+
+    },
+    "Open Archive…" : {
+
+    },
+    "Open each archive in a new tab" : {
+
+    },
+    "Open in App" : {
+
+    },
+    "Open it in QuickZip to enter the password and extract the protected items." : {
+
+    },
+    "Open Item" : {
+
+    },
+    "Open Recent" : {
+
+    },
+    "Open the selected files in their default applications" : {
+
+    },
+    "Open…" : {
+
+    },
+    "Password" : {
+
+    },
+    "Password required" : {
+
+    },
+    "Path" : {
+
+    },
+    "Permissions" : {
+
+    },
+    "Preparing preview" : {
+
+    },
+    "Preview of %@" : {
+
+    },
+    "Preview the selected file" : {
+
+    },
+    "Program or installer" : {
+
+    },
+    "Quick Look" : {
+
+    },
+    "Reading “%@”…" : {
+
+    },
+    "Reinstall…" : {
+
+    },
+    "Reload" : {
+
+    },
+    "Remember in Keychain" : {
+
+    },
+    "Remove" : {
+
+    },
+    "Replace" : {
+
+    },
+    "Review…" : {
+
+    },
+    "Safety Report" : {
+
+    },
+    "Safety Report…" : {
+
+    },
+    "Saved" : {
+
+    },
+    "Search" : {
+
+    },
+    "Search “%@”" : {
+
+    },
+    "SHA-256" : {
+
+    },
+    "Share" : {
+
+    },
+    "Share the selected items" : {
+
+    },
+    "Shares data with another item" : {
+
+    },
+    "Show" : {
+
+    },
+    "Show “%@”" : {
+
+    },
+    "Show folder %@" : {
+
+    },
+    "Show in list" : {
+
+    },
+    "Show Inspector" : {
+
+    },
+    "Show macOS Metadata Files" : {
+
+    },
+    "Show or hide the inspector" : {
+
+    },
+    "Show Preview" : {
+
+    },
+    "Show the enclosing folder" : {
+
+    },
+    "Show the extracted items in Finder" : {
+
+    },
+    "Show the items as a list or as a map of their sizes" : {
+
+    },
+    "Show thumbnails for images" : {
+
+    },
+    "Size" : {
+
+    },
+    "Size Map" : {
+
+    },
+    "Size map of %@" : {
+
+    },
+    "Skip" : {
+
+    },
+    "Some items already exist" : {
+
+    },
+    "Stop" : {
+
+    },
+    "Stop extracting (⌘.)" : {
+
+    },
+    "Text Encoding" : {
+
+    },
+    "That password doesn’t open this item. Try again." : {
+
+    },
+    "the archive" : {
+
+    },
+    "The archive couldn’t be extracted" : {
+
+    },
+    "The checksum list couldn’t be saved" : {
+
+    },
+    "The quickzip command in %@ points to a copy of QuickZip that has moved." : {
+
+    },
+    "The quickzip command is installed in %@." : {
+
+    },
+    "The command could not be installed there: %@ Use “Copy Install Command for Terminal” instead." : {
+
+    },
+    "The comparison couldn’t be made" : {
+
+    },
+    "The items couldn’t be extracted" : {
+
+    },
+    "There are more findings than are listed here." : {
+
+    },
+    "These checks read only the archive’s directory. Safe-looking items can still contain harmful files, so only open archives from sources you trust." : {
+
+    },
+    "This can’t be undone." : {
+
+    },
+    "This copy of QuickZip does not contain the command-line tool." : {
+
+    },
+    "This folder has no items with a size." : {
+
+    },
+    "this format can be browsed and extracted from but not changed" : {
+
+    },
+    "This kind of archive has to be read from the start to list it." : {
+
+    },
+    "Thumbnails are made by decompressing each image as its row appears. Images over 16 MB are skipped." : {
+
+    },
+    "To uncompress “%@” beside it, QuickZip needs your permission to create folders in “%@”. Choose it once and QuickZip will remember it." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "To uncompress “%1$@” beside it, QuickZip needs your permission to create folders in “%2$@”. Choose it once and QuickZip will remember it."
+          }
+        }
+      }
+    },
+    "Turkish (Windows)" : {
+
+    },
+    "Uncompress Here" : {
+
+    },
+    "Unicode (UTF-8)" : {
+
+    },
+    "Unlock" : {
+
+    },
+    "Unsafe" : {
+
+    },
+    "Unsupported" : {
+
+    },
+    "Use QuickZip from Terminal and scripts: quickzip list, extract, verify, test-safety and checksum." : {
+
+    },
+    "Use the list view for item details." : {
+
+    },
+    "Verification progress" : {
+
+    },
+    "Verify ${archive}" : {
+
+    },
+    "Verify Archive" : {
+
+    },
+    "Verifying “%@”…" : {
+
+    },
+    "View" : {
+
+    },
+    "Warning: %@" : {
+
+    },
+    "Western (DOS Latin US)" : {
+
+    },
+    "Western (Windows Latin 1)" : {
+
+    },
+    "Windows:" : {
+
+    },
+    "Won’t be extracted" : {
+
+    },
+    "Won’t be extracted: see the safety report" : {
+
+    },
+    "Words match names; a word with / matches paths; *.pdf matches extensions." : {
+
+    },
+    "Would be written outside the destination" : {
+
+    },
+    "Yes" : {
+
+    },
+    "You can always open a ZIP with QuickZip from Finder’s Open With menu." : {
+
+    },
+    "ZIP archives:" : {
+
+    },
+    "ZipCrypto (weak)" : {
+
+    }
+  },
+  "version" : "1.0"
+}

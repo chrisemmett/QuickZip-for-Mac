@@ -1,0 +1,168 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "“%@” already exists." : {
+
+    },
+    "“%@” is a %@ archive. QuickZip opens ZIP, tar (plain, .gz and .xz) and Apple Archive files; %@ needs software it does not include." : {
+
+    },
+    "“%@” is a link to “%@”, outside the destination folder, so it was skipped." : {
+
+    },
+    "“%@” is compressed with %@, which is not supported." : {
+
+    },
+    "“%@” is corrupt: %@." : {
+
+    },
+    "“%@” is corrupt: expected %llu bytes but found %llu." : {
+
+    },
+    "“%@” is corrupt: its checksum does not match." : {
+
+    },
+    "“%@” is not a %@." : {
+
+    },
+    "“%@” is not part of this archive." : {
+
+    },
+    "“%@” is password-protected. Enter the password to open it." : {
+
+    },
+    "“%@” uses an encryption method that is not supported." : {
+
+    },
+    "“%@” was not opened because %@." : {
+
+    },
+    "“%@” would be written outside the destination folder, so it was skipped." : {
+
+    },
+    "%lld devices, pipes or other special files are not shown." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld device, pipe or other special file is not shown."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld devices, pipes or other special files are not shown."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld items share data with other items, which is typical of a ZIP bomb. They cannot be opened." : {
+
+    },
+    "A link points to an item that is not in the archive." : {
+
+    },
+    "an item’s size is only recorded after its data" : {
+
+    },
+    "its directory is damaged" : {
+
+    },
+    "its directory is missing or damaged" : {
+
+    },
+    "some items share data, which is typical of a ZIP bomb" : {
+
+    },
+    "sparse files are not supported" : {
+
+    },
+    "The archive declares %llu items but its directory contains %lld." : {
+
+    },
+    "The archive ends in the middle of an item, which is cut short." : {
+
+    },
+    "The archive ends unexpectedly." : {
+
+    },
+    "The archive is damaged after %lld items; the rest cannot be listed." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "The archive is damaged after %lld item; the rest cannot be listed."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "The archive is damaged after %lld items; the rest cannot be listed."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "The archive is damaged: %@." : {
+
+    },
+    "The archive’s directory is damaged at byte %lld; only %lld of %llu items could be read. (%@)" : {
+
+    },
+    "The archive’s directory is missing or damaged. %lld items were recovered, but %@." : {
+
+    },
+    "The compressed data is damaged after %lld items; the rest cannot be listed." : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "The compressed data is damaged after %lld item; the rest cannot be listed."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "The compressed data is damaged after %lld items; the rest cannot be listed."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "The file is not a supported archive." : {
+
+    },
+    "the item it links to is not in the archive" : {
+
+    },
+    "the last item is cut off" : {
+
+    },
+    "The password does not open “%@”." : {
+
+    },
+    "the rest of the file is damaged" : {
+
+    },
+    "There is not enough space: %llu bytes are needed but only %llu are available." : {
+
+    }
+  },
+  "version" : "1.0"
+}
