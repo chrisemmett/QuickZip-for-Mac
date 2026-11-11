@@ -20,8 +20,8 @@ bypassed, crashes or out-of-bounds reads on malformed archives, quarantine not
 being applied, passwords leaking.
 
 Please **don't open a public issue** for these. Report them privately from the
-repository's **Security** tab → **Report a vulnerability**, with a description
-and, if you can, an archive that reproduces the problem.
+repository's **Security** tab → **Report a vulnerability**, as described in
+[SECURITY.md](SECURITY.md).
 
 ## Reporting a bug
 
