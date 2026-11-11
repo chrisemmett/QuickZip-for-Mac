@@ -1,0 +1,16 @@
+# Your own signing settings (bundle ID prefix, team ID). See Config/Base.xcconfig.
+Config/Local.xcconfig
+
+# Xcode per-user state
+xcuserdata/
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+Distribution/out/
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
